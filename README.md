@@ -25,6 +25,7 @@ root
 from efficientdetLite.driver import EfficientdetDriver
 from efficientdetLite.utils import *
 import cv2
+import tensorflow as tf
 
 model_name = "efficientdet-d0"
 model_path = "1080p/efficientdet-d0_frozen.pb"
