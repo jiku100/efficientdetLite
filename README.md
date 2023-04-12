@@ -8,7 +8,8 @@ Simple driver to use frozen efficientdet model
 git clone https://github.com/jiku100/efficientdetLite.git
 ```
 
-2. Demo
+2. Demo  
+
 **Directory structure** 
 ```bash
 root
